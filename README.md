@@ -24,4 +24,6 @@ Application will be a blog form
   *Name of Blog
 
 ### Installation
+Use the command line to run the application from Springboot, the server host is "localhost:8080"
+
 ### Risk Assessment
