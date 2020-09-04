@@ -11,7 +11,9 @@ This project requires a CRUD (create, read, update, delete) application which sh
 * Create a Jira board to plan project 
 * Add to product backlog
 * Create Risk Assessment 
-* Have screenshots/command code to show the steps as you go along
+* Version control
+* ERD (relationship diagram)
+* CRUD functionality 
 
 
 ### Methodology
