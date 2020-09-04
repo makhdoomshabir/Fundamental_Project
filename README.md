@@ -18,15 +18,17 @@ This project requires a CRUD (create, read, update, delete) application which sh
 
 Application will be a blog form
 
-* Login Details
-  *Username
-  *Password
-  *Name of Blog
+* Login Details 
+ 1. Username
+ 2. Password
+ 3. Name of Blog
+ 
+ 
 * Creating Posts:
-  *Create Blog name
-  *Create title
-  *Create body of text
-  *Submit, append, and delete multiple blogs
+ * Create Blog name
+ * Create title
+ * Create body of text
+ * Submit, append, and delete multiple blogs
   
 ### CI Pipeline
 
