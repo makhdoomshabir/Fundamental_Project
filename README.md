@@ -31,6 +31,7 @@ Application will be a blog form
  4. Submit, append, and delete multiple blogs
   
 ### CI Pipeline
+![CI Pipeline](https://github.com/makhdoomshabir/Fundamental_Project/blob/master/CI_Pipeline(1)image.gif)
 
 ### Jira Board
 ![jira board](https://github.com/makhdoomshabir/Fundamental_Project/blob/master/Screenshot%20from%202020-09-03%2023-42-37.png)
