@@ -18,22 +18,22 @@ This project requires a CRUD (create, read, update, delete) application which sh
 
 Application will be a blog form
 
-* Login Details 
+* Login Details:
  1. Username
  2. Password
  3. Name of Blog
  
  
 * Creating Posts:
- * Create Blog name
- * Create title
- * Create body of text
- * Submit, append, and delete multiple blogs
+ 1. Create Blog name
+ 2. Create title
+ 3. Create body of text
+ 4. Submit, append, and delete multiple blogs
   
 ### CI Pipeline
 
 ### Jira Board
-
+![jira board](https://github.com/makhdoomshabir/Fundamental_Project/blob/master/Screenshot%20from%202020-09-03%2023-42-37.png)
 
 ### Installation
 Use the command line to run the application from Springboot, the server host is "localhost:8080"
