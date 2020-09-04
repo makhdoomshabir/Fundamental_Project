@@ -71,7 +71,7 @@ Use the command line to run the application from Springboot, the server host is 
 
 ### Risk Assessment
 
-![risk assessment](https://github.com/makhdoomshabir/Funda)
+![risk assessment](https://github.com/makhdoomshabir/Fundamental_Project/blob/master/Screenshot%20from%202020-09-04%2012-54-11.png)
 
 ### Current Bugs
 
