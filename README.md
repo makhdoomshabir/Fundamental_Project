@@ -40,6 +40,7 @@ Application will be a blog form
 * CI Server – We chose Jenkins because it is open sourced and runs on Ubuntu which is the OS we are developing on as a team which provides us with consistency across devices. Its internal and cloud based. 
 * Build Tool – Jenkins
 * Artefact Repository – GitHub
+
 ### Moscow Prioritisation 
 
 Must have:
@@ -68,6 +69,8 @@ Use the command line to run the application from Springboot, the server host is 
 
 ### Risk Assessment
 
+![risk assessment](https://github.com/makhdoomshabir/Funda)
+
 ### Current Bugs
 
 * Blog name can be created but post themselves cannot
@@ -76,7 +79,7 @@ Use the command line to run the application from Springboot, the server host is 
 
 ### Future Version Improvements 
 
-*A login page would be the next priority to allow multiple users to create and store their data as individual users. 
-*A more aesthetic front end to entice client customers to use the application. This would be achieved with CSS.
-*More accessible features such as the ability to alter fonts, font size, title sizes, add images, organise the structure of the page.
-*Smaller implementations such as adding a "date created" and an "author" for each post created.
+* A login page would be the next priority to allow multiple users to create and store their data as individual users. 
+* A more aesthetic front end to entice client customers to use the application. This would be achieved with CSS.
+* More accessible features such as the ability to alter fonts, font size, title sizes, add images, organise the structure of the page.
+* Smaller implementations such as adding a "date created" and an "author" for each post created.
